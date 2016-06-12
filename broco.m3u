@@ -36,3 +36,24 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1 group-title="Musica", QMusica
 mms://streamqm.uigc.net/qmusica
+
+#EXTINF:0 tvg-name="C5N News" tvg-language="Spanish" tvg-country="AR" tvg-id="C5N News" tvg-logo="http://tvtvtv.ru/icons/logo_988.png" group-title="News",C5N News (News) (AR) (Spanish)
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE (News) (ES) (Spanish)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name="CB24" tvg-language="Spanish" tvg-country="CR" tvg-id="CB24" tvg-logo="http://cb24.tv/wp-content/uploads/2012/12/logo-slogan.png" group-title="News",CB24 (News) (CR) (Spanish)
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 26" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 5 Linares" tvg-language="Spanish" tvg-country="CL" tvg-id="Canal 5 Linares" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png" group-title="News",Canal 5 Linares (News) (CL) (Spanish)
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura (News) (ES) (Spanish)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW (News) (ES) (Spanish)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-name="ECO TV" tvg-language="Spanish" tvg-country="PA" tvg-id="ECO TV" tvg-logo="https://i.imgur.com/46l971T.jpg" group-title="News",ECO TV (News) (PA) (Spanish)
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Efekto TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Efekto TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTarHq19HUxp67LhWWCBHSY4Iek3n0t1wM0SF9CddaI4CrIFYE-YwOm8g" group-title="News",Efekto TV (News) (MX) (Spanish)
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
