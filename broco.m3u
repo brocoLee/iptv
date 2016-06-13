@@ -7,8 +7,11 @@ http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597f
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 group-title="Canales Chile", Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#http://13.live.cdn.cl/13hddesktop/13hd-desktop.m3u8
 #EXTINF:-1 group-title="Canales Chile", Canal 13c
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Mega
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 group-title="Canales Chile", CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
