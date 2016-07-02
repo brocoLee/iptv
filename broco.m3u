@@ -14,6 +14,8 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:-1 group-title="Canales Chile", CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="Canales Chile", TeleCanal
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids", Anime en Español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
